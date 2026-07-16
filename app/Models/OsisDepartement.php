@@ -4,7 +4,7 @@ namespace App\Models;
 
 use Illuminate\Database\Eloquent\Model;
 
-class OsisClass extends Model
+class OsisDepartement extends Model
 {
     protected $fillable = [
         'uuid',
